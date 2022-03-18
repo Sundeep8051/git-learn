@@ -1,3 +1,10 @@
 This is a first test file
 
 added new changes from feature2 branch
+
+This is a test file
+changes made in feature branch
+This is a first test file
+
+added new changes from feature2 branch
+added new changes from feature-branch
